@@ -42,6 +42,9 @@ header section {
   margin: 0 auto;
   max-width: 640px;
 }
+.hng{
+  float: left;
+}
 
 header img {
   border-radius: 35%;
